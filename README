@@ -1,0 +1,11 @@
+# Barangay Resident Management System
+
+Complete, production-ready Barangay Management System built on Node.js, Express, and PostgreSQL, optimized for direct deployment on Render.
+
+## Project File Structure
+Ensure your repository root structure contains exactly these three files:
+```text
+barangay-resident-system/
+├── app.js
+├── package.json
+└── README.md
